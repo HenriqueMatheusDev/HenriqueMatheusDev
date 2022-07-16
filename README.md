@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Henrique Matheus</i></a> 😃️</h1>
-  <p align="center">Estudo Engenharia de Software na <a href="https://https://portal.uniasselvi.com.br/"><i>uniasselvi</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo Engenharia de Software na <a href="https://https://portal.uniasselvi.com.br/"><i>uniasselvi</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCkCGqR16ZS3XFjnGb_Pmw8g"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https:/https://www.youtube.com/channel/UCkCGqR16ZS3XFjnGb_Pmw8g" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCkCGqR16ZS3XFjnGb_Pmw8g  " target="_blank" />
   </a><br>
